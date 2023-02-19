@@ -1,0 +1,8 @@
+file1.txt
+score: 10.196721311475411
+most used word: and, the, of, is, ocean
+random words: it, abyss, hidden, artists, with
+file2.txt
+score: 12.727272727272727
+most used word: the, breeze, is, gently, blowing
+random words: bringing, the, gently, is, the

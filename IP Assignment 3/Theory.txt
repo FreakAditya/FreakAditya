@@ -1,0 +1,47 @@
+ADVANTAGES OF OO
+
+1.Encapsulation: OOP allows us to encapsulate data and methods inside objects, 
+making it easier to manage and reuse code. By encapsulating data inside objects, 
+we can protect it from being accessed or modified by other parts of the program, 
+which can help prevent bugs and ensure data integrity. Additionally, 
+encapsulation allows us to create modular, 
+reusable code that can be easily shared and used in other projects.
+
+2.Inheritance: OOP allows us to create classes that inherit properties and methods from other classes. 
+In Python, inheritance is a powerful feature that allows us to create new classes that are based on existing ones,
+and add or modify their behavior as needed. This can save us a lot of time and effort, 
+as we can reuse existing code and avoid writing the same code over and over again. 
+Inheritance can also help us create more modular and maintainable code, 
+as we can separate the common functionality into a base class, 
+and create subclasses that specialize and extend that functionality
+
+ADVANTAGES OF DICTIONARY
+
+1.Fast Lookup: Python dictionaries provide very fast lookups, 
+making them ideal for situations where data needs to be accessed frequently. 
+This is because they are implemented as a hash table, which allows for constant-time lookups, 
+regardless of the size of the dictionary.
+
+2.Versatility: Dictionaries can store a wide variety of data types, 
+including strings, numbers, and even other dictionaries. 
+This makes them highly versatile and useful for a wide range of applications. 
+Additionally, dictionaries allow for easy manipulation and editing of data, 
+making them a great tool for data analysis and processing.
+
+DISADVANTAGES OF OO
+
+1.Overhead: The use of objects and methods in OOP can lead to additional overhead 
+in terms of memory usage and execution time. This can be especially noticeable in programs that create 
+and use many objects, or that perform frequent method calls.
+
+2.Inflexibility: In some cases, the use of OOP can lead to code that is less flexible and adaptable than 
+code written in a more procedural or functional style. For example, complex inheritance hierarchies can make 
+it difficult to modify the behavior of a particular class or method without affecting other parts of the program.
+
+DISADVANTAGES OF DICTIONARY
+1.Memory Overhead: Dictionaries require more memory than other data structures such as lists, 
+due to the need to store both keys and values. If you are working with large amounts of data, this can 
+be a concern
+
+2.Key Limitations: Dictionaries require unique keys, which can be a limitation if you need to store multiple values with the same key. 
+While this can be worked around using nested dictionaries or other data structures, it can add complexity to your code.
